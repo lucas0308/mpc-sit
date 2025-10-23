@@ -1,0 +1,8 @@
+{
+  "ETH": "https://eth.llamarpc.com",
+  "ETHSEP": "https://ethereum-sepolia-rpc.publicnode.com",
+  "BASE": "https://mainnet.base.org",
+  "BASESEP": "https://sepolia.base.org",
+  "BSC": "https://bsc-dataseed1.bnbchain.org",
+  "BSCTEST": "https://bsc-testnet-rpc.publicnode.com"
+}
